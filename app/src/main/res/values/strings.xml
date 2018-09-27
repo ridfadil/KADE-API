@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Football Schedule Part 2</string>
+
+    <string-array name="nama_klub_home">
+        <item>Bayern Munchen FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+    </string-array>
+
+    <string-array name="nama_klub_away">
+        <item>Chelsea FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester United FC</item>
+    </string-array>
+
+    <string-array name="tanggal_match">
+        <item>senin, 19 agustus 2018</item>
+        <item>senin, 12 agustus 2018</item>
+        <item>senin, 11 agustus 2018</item>
+    </string-array>
+
+    <string-array name="score_home">
+        <item>1</item>
+        <item>5</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="score_away">
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
